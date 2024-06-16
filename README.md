@@ -27,6 +27,7 @@ A Cota para o Exercício da Atividade Parlamentar dos Senadores (CEAPS) é um re
   ![Valor de reembolsos por tipo de despesa em 2022](https://github.com/Lucasvrib/An-lise-de-despesas-senadores-2008-a-2022/assets/146672956/114696f7-6798-42f2-9250-b2f878e7499f)
 
 * Comparação dos ultimos 4 anos analisados?
+  
   ![Gastos de 2019 a 2022 dividido por meses](https://github.com/Lucasvrib/An-lise-de-despesas-senadores-2008-a-2022/assets/146672956/b8ba20b3-1bde-47a5-a87a-b45bfc6f4225)
 
 ## Conclusão:
