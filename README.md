@@ -2,7 +2,7 @@
 
 A Cota para o Exercício da Atividade Parlamentar dos Senadores (CEAPS) é um recurso financeiro destinado a cobrir despesas associadas ao exercício da atividade parlamentar no Senado Federal, incluindo transporte aéreo e outras despesas diversas.
 
-* Os arquivos com os dados abertos das CEAPS começaram a ser disponibilizados a partir de 2008.
+* Os arquivos com os dados começaram a ser disponibilizados a partir de 2008.
 
 ## Perguntas:
 
